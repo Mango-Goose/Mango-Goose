@@ -8,7 +8,10 @@
 
 - I'm passionate about all things software!
 - I'm quick to learn new technology, with my areas of interest spanning game development, websites and AI
-- My hobbies include art, gaming and going to concerts!
+- My hobbies include:
+    -  Art (I drew my profile photo)
+    -  Gaming
+    -  Going to concerts!
 
 </details>
 
