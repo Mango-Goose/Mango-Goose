@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center"> Naomi Pollinger </h1>
+<p align="center"> Hi there 👋
 
-<!--
-**Mango-Goose/Mango-Goose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm Naomi! An aspiring software engineer looking for a full-time graduate role 
 
-Here are some ideas to get you started:
+<details>
+<summary> About Me </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm passionate about all things software!
+- I'm quick to learn new technology, with my areas of interest spanning game development, websites and AI
+- My hobbies include art, gaming and going to concerts!
+
+</details>
+
+<details>
+  <summary>Contact</summary>
+  I am contactable via email - nopollinger@gmail.com
+</details>
